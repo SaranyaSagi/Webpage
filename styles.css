@@ -89,6 +89,6 @@ nav:hover ul li a{
   }
   100%{
     transform: translate(0px);
-    opacity: 0;
+    opacity: 1;
   }
 }
