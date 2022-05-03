@@ -95,9 +95,9 @@ nav:hover ul li a{
     opacity: 1;
   }
 }
-p.slide-left{
+/* p.slide-left{
   animation-delay: 1s;
-}
+} */
 .links.slide-left{
   animation-delay: 2s;
 }
