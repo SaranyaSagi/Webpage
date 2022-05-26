@@ -67,15 +67,15 @@ nav:hover ul li a{
   opacity: 0;
 }
 
-/* .links{
+.links{
   margin-top: 30px;
   opacity: 0;
-} */
-/* .links a{
+}
+.links a{
   color: #fff;
   text-decoration: none;
   display: inline-block;
-} */
+}
 .btn{
   border: 2px solid #fff;
   padding: 10px 35px;
