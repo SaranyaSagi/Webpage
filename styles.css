@@ -20,13 +20,13 @@ nav{
   padding: 18px 8%;
   transition: background 1s;
 }
-nav .logo{
+/* nav .logo{
   display: flex;
   align-items: center;
   font-size: 26px;
   font-weight: 600;
   color: #fff
-}
+} */
 nav .logo img{
   width: 61px;
   margin-right: 10px;
